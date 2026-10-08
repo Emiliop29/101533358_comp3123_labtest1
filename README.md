@@ -19,4 +19,4 @@ node remove.js
 
 ## Submission
 
-Student ID: 101533358. Repository name: `101533358_comp3123_labtest1`. Already upload to brightspaces.
+Student ID: 101533358. Repository name: `101533358_comp3123_labtest1`. Uploaded to Brightspaces
