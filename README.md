@@ -19,4 +19,5 @@ node remove.js
 
 ## Submission
 
-Student ID: 101533358. Repository name: `101533358_comp3123_labtest1`. Upload this project ZIP, the separate screenshots PDF, and your GitHub repository URL to D2L. GitHub repository creation, publishing and D2L submission must be completed in your own accounts.
+Student ID: 101533358. Repository name: `101533358_comp3123_labtest1`. Uploaded to D2L
+
