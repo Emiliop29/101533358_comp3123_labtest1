@@ -1,0 +1,12 @@
+{
+  "name": "101533358_comp3123_labtest1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "COMP3123 Lab Test 1: ES6, Promises, Node.js file module",
+  "scripts": {
+    "q1": "node question1.js",
+    "q2": "node question2.js",
+    "add": "node add.js",
+    "remove": "node remove.js"
+  }
+}
